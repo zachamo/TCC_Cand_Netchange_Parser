@@ -6,3 +6,5 @@ identifier text and parsing the corresponding counts. It also extracts all error
 scripted to accomodate a 'scrubber' process, which removes SSOIDs and other employment data upon loss of Internal status.
 
 Note - I locally compiled as an executable using pyinstaller.
+
+UPDATE - appearently you can achieve similar if not better results using the TCC Custom Steps library
