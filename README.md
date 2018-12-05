@@ -8,3 +8,4 @@ scripted to accomodate a 'scrubber' process, which removes SSOIDs and other empl
 Note - I locally compiled as an executable using pyinstaller.
 
 UPDATE - appearently you can achieve similar if not better results using the TCC Custom Steps library
+Additional update - I have successfully used the custom step: com.taleo.integration.client.customstep.mail.SendEmailPostStep to alert us on row-level errors for an import. This is great, but one thing this parser does is allow you to recursively parse a number of output files and perform trend analisys (i.e. increase in volume / errors).
